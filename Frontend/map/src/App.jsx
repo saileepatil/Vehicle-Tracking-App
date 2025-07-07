@@ -1,7 +1,7 @@
 
 
 
-import Map from './component/Map';
+import Map from './component/Map.jsx';
 
 function App() {
   return (
